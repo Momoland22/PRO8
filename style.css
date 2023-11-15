@@ -1,0 +1,37 @@
+.body{
+    background-color:#D0A2F7 ;
+}
+.first{
+    background-color:#F1EAFF;
+}
+.second{
+    background-color: #E5D4FF;
+}
+.ekk{
+     border:10px solid black;
+     margine:none;
+     padding:0px;
+}
+.AA{
+    background-color:#F0B86E;
+}
+.BB{
+    background-color: #ED7B7B;
+}
+.third{
+    background-color: #DCBFFF;
+}
+.fourth{
+    background-color: #D0A2F7;
+}
+.carousel-caption h5{
+    font-weight: 10px;
+    font-family: 'Caveat', cursive;
+    color: black;
+}
+.carousel-indicators{
+    color:black;
+}
+.fift{
+    background-color: #cfa1f7;
+}
